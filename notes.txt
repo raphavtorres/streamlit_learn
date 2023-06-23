@@ -1,0 +1,8 @@
+Use in config.toml:
+
+    [server]
+    headless = true
+    port = 9090
+
+    [theme]
+    base = 'light'
