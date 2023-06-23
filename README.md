@@ -1,3 +1,3 @@
-# Learning Streamlit
+# Learning Streamlit 👑
 
-Just having fun testing streamlit and learning about new libs 🐱‍👓
+Just having fun testing streamlit and learning about new libs 😉
